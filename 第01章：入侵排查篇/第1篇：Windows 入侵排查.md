@@ -222,9 +222,9 @@ SysInspector：http://download.eset.com.cn/download/detail/?product=sysinspector
 
 #### 2.2 病毒查杀
 
-卡巴斯基：http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe   （推荐理由：绿色版、最新病毒库）
+卡巴斯基：http://devbuilds.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe （推荐理由：绿色版、最新病毒库）
 
-大蜘蛛：http://free.drweb.ru/download+cureit+free（推荐理由：扫描快、一次下载只能用1周，更新病毒库）
+大蜘蛛：http://free.drweb.ru/download+cureit+free （推荐理由：扫描快、一次下载只能用1周，更新病毒库）
 
 火绒安全软件：https://www.huorong.cn
 
